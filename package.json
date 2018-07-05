@@ -1,0 +1,9 @@
+{
+  "name": "@neax/test",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/module.js",
+  "files": ["lib", "src", "dist"],
+  "dependencies": {},
+  "devDependencies": {}
+}

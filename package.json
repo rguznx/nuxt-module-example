@@ -3,7 +3,16 @@
   "version": "0.1.0",
   "license": "MIT",
   "main": "lib/module.js",
-  "files": ["lib", "src", "dist"],
-  "dependencies": {},
-  "devDependencies": {}
+  "files": [
+    "lib",
+    "src",
+    "dist"
+  ],
+  "dependencies": {
+    "moment": "^2.22.2",
+    "vue-moment": "^4.0.0"
+  },
+  "devDependencies": {
+    "vue": "^2.5.16"
+  }
 }
